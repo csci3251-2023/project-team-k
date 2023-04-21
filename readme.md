@@ -6,3 +6,9 @@ Check back later!
 
 This is a link to [Code.c](./code.c) for Task5
  
+ # Code 
+ ```c
+ # include <stdio.h>
+ int main(void){
+ }
+ ```

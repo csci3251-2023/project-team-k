@@ -4,4 +4,6 @@ Check back later!
 
 **Please read `tasks.md` to start your work.**
 
-```{% highlight c %} {% include_relative ./code.c %} {% endhighlight %}```
+{% highlight c %} 
+{% include_relative ./code.c %} 
+{% endhighlight %}

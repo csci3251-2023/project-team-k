@@ -7,7 +7,15 @@ Task 5 Get a status badge TODO <br>
 Task 6 Showcase team TODO <br>
 Task 7 Register your repo TODO <br>
 
+
+**Please read `tasks.md` to start your work.**
 # Code
 
+{% highlight c %} 
+{% include_relative ./code.c %} 
+{% endhighlight %}
+
+=======
 # Contributer
  
+

@@ -18,7 +18,7 @@ Task 7 Register your repo TODO <br>
 ![example](https://github.com/csci3251-2023/project-team-k/actions/workflows/c-cpp.yml/badge.svg)
 
 # Contributer
-{% for contributor in site.contributor %}
+{% for contributor in site.stu %}
 
 <p>
   <ul>

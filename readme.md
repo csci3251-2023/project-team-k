@@ -12,7 +12,7 @@ Task 7 Register your repo TODO <br>
 # Code
 
 {% highlight c %} 
-{% include_relative ./code.c %} 
+{% include_relative code.c %} 
 {% endhighlight %}
 
 =======

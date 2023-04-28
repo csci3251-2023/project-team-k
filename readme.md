@@ -2,7 +2,7 @@
 Task 1 Starting issues done by 1155159600 <br>
 Task 2 Explore the Projects tab done by 1155147818 <br>
 Task 3 Update readme.md done by 1155142698 <br>
-Task 4 Write C code by 1155158559 <br>
+Task 4 Write C code 1155158559 <br>
 Task 5 Get a status badge done by 1155143814 <br>
 Task 6 Showcase team done by 1155161439 <br>
 Task 7 Register your repo 1155157186 <br>
